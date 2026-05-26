@@ -51,7 +51,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dk5847001-stack/dk5847001-stack/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
