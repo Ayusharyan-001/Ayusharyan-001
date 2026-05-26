@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 💻 I love building websites and Java projects
 - 🚀 Currently working on exciting projects
-- 📫 Reach me at: your-ayushkumar3209@gmail.com
+- 📫 Reach me at: ayushkumar3209@gmail.com
 - ⚡ Fun fact: I love coding and learning new tech
 
 ## 🌐 Connect With Me
