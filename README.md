@@ -55,7 +55,7 @@
 
 ---
 
-## ✨ Featured Projects
+<!-- ## ✨ Featured Projects
 
 ### 🔹 Project 1
 Short description of your project.
@@ -64,7 +64,7 @@ Short description of your project.
 Short description of your project.
 
 ### 🔹 Project 3
-Short description of your project.
+Short description of your project. -->
 
 ---
 
