@@ -1,71 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ayush Aryan</h1>
-<h3 align="center">A Passionate Developer From India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning **Full Stack Development**
-- 💻 I love building websites and Java projects
-- 🚀 Currently working on exciting projects
-- 📫 Reach me at: ayushkumar3209@gmail.com
-- ⚡ Fun fact: I love coding and learning new tech
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://instagram.com/your-instagram" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-<a href="https://github.com/yourusername" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
+<h1 align="center">Hi there, I'm Ayush Aryan 👋</h1>
+<h3 align="center">Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
 
 ---
 
-## 🚀 Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,python,react,nodejs,mongodb,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
-</p> -->
-
+🚀 **About Me**  
+I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </p>
 
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="langs" />
-</p> -->
+
+
+
+🛠️ **Tech Stack**  
+Frontend:  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
+Animation:  
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>  
+Backend:  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
+Database:  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+🌟 **What I Do**
+- Create responsive, mobile-first websites & apps
+- Build APIs & backend systems
+- Integrate smooth animations & motion
+- Optimize for performance & scalability
+
+  
+📊 **Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
+</p>
+
+
+📫 **Let’s Connect**  
+[📧 Email Me](mailto:ayushkumar3209@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/ayush-kumar-949b2b252)
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/dk5847001-stack/dk5847001-stack/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<!-- ## ✨ Featured Projects
-
-### 🔹 Project 1
-Short description of your project.
-
-### 🔹 Project 2
-Short description of your project.
-
-### 🔹 Project 3
-Short description of your project. -->
-
----
-
-<h3 align="center">⭐ Thanks For Visiting My Profile ⭐</h3>
+⚡ _“Code is like magic — if you know the spell, you can build anything.”_
